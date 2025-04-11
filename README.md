@@ -1,84 +1,84 @@
-# 🏢 Paris et Lyon sont-elles toujours des agglomérations monocentriques ?
+# 🏢 Are Paris and Lyon Still Monocentric Cities?
 
-## 🎯 Objectif du projet
+## 🎯 Project Goal
 
-Ce projet vise à étudier l'évolution de la répartition spatiale des emplois dans les métropoles françaises de **Paris** et **Lyon**, entre **1968 et 2021**, pour déterminer si ces villes suivent encore un modèle **monocentrique** ou tendent vers un **polycentrisme**.
+This project aims to study the evolution of the spatial distribution of jobs in the French metropolitan areas of **Paris** and **Lyon**, between **1968 and 2021**, to determine whether these cities still follow a **monocentric** model or are tending towards **polycentrism**.
 
-L'analyse repose sur le cadre théorique du **modèle monocentrique d’Alonso (1964)**, confronté à des données réelles et des visualisations cartographiques.
+The analysis is based on the theoretical framework of the **Alonso (1964) monocentric model**, compared with real-world data and map visualizations.
 
-## 📁 Structure du projet
+## 📁 Project Structure
 
 ```bash
 Urban-Economics/
 │
-├── do/                  # Scripts Python pour le traitement et l'analyse
+├── do/                  # Python scripts for processing and analysis
 │   └── analysis.py
 │
-├── input/               # Fichiers Excel contenant les données INSEE
+├── input/               # Excel files containing INSEE data
 │
-├── output/              # Résultats : graphiques, cartes, fichiers texte
+├── output/              # Results: graphs, maps, text files
 │
-├── Présentation.pdf     # Support théorique et présentation du projet
+├── Presentation.pdf     # Theoretical background and project presentation
 │
-├── requirements.txt     # Bibliothèques nécessaires
+├── requirements.txt     # Required libraries
 │
 └── LICENSE
 ```
 
 ## ⚙️ Installation
 
-### 1. Cloner le dépôt
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/jkengineer42/Urban-Economics.git
 cd Urban-Economics
 ```
 
-### 2. Installer les dépendances
+### 2. Install dependencies
 
-Crée un environnement virtuel (optionnel mais recommandé) :
+Create a virtual environment (optional but recommended):
 
 ```bash
 python -m venv env
-source env/bin/activate  # sous Windows : env\Scripts\activate
+source env/bin/activate  # On Windows use: env\Scripts\activate
 ```
 
-Puis installe les bibliothèques nécessaires :
+Then install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🚀 Utilisation
+## 🚀 Usage
 
-Lancer le script principal :
+Run the main script:
 
 ```bash
 python do/analysis.py
 ```
 
-Les résultats sont générés dans le dossier `output/` sous forme de graphiques (.png) et de tableaux (.txt).
+The results are generated in the `output/` directory as graphs (.png) and tables (.txt).
 
-## 📊 Résultats attendus
+## 📊 Expected Results
 
-- **Cartes** d’évolution de l’emploi à Paris et Lyon (1968, 1999, 2021)
-- **Graphiques** de concentration de l’emploi
-- **Régression linéaire** sur la densité d’emploi en fonction de la distance au centre
-- Comparaison entre modèle monocentrique théorique et observations empiriques
+- **Maps** of employment evolution in Paris and Lyon (1968, 1999, 2021)
+- **Graphs** of employment concentration
+- **Linear regression** of employment density as a function of distance to the center
+- Comparison between the theoretical monocentric model and empirical observations
 
-## 📘 Théorie économique
+## 📘 Economic Theory
 
-Le projet s’appuie principalement sur :
+The project primarily relies on:
 
-- **Alonso (1964)** – Modèle monocentrique
-- Notions de **coût de transport**, **loyers décroissants**, et **fonction d’enchère**
-- Les limites du modèle sont discutées (polycentrisme, hétérogénéité des ménages, dynamiques temporelles)
+- **Alonso (1964)** – Monocentric model
+- Concepts of **transport costs**, **decreasing rents**, and **bid-rent function**
+- The model's limitations are discussed (polycentrism, household heterogeneity, temporal dynamics)
 
-## 👥 Auteurs
+## 👥 Authors
 
-- Jérémie Konda  
-- Alexandre Klobb  
+- Jérémie Konda
+- Alexandre Klobb
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est sous licence **BSD 2-Clause**. Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
+This project is licensed under the **BSD 2-Clause License**. See the [LICENSE](LICENSE) file for more information.
