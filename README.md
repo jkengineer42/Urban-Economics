@@ -74,6 +74,11 @@ The project primarily relies on:
 - Concepts of **transport costs**, **decreasing rents**, and **bid-rent function**
 - The model's limitations are discussed (polycentrism, household heterogeneity, temporal dynamics)
 
+## 📖 Presentations
+
+*   [View the presentation in English (PDF)](Presentation_en.pdf)
+*   [Consulter la présentation en Français (PDF)](Presentation_fr.pdf)
+
 ## 👥 Authors
 
 - Jérémie Konda
