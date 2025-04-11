@@ -1,7 +1,6 @@
 # 🏢 Urban-Economics
 
 Problématique : **Paris et Lyon sont-elles toujours des agglomérations monocentriques ?**  
-Un projet d'analyse empirique fondé sur des modèles d'économie urbaine.
 
 ## 🎯 Objectif du projet
 
