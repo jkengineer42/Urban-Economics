@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+shapely
+statsmodels
+requests
+py7zr
