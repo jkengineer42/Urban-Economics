@@ -1,6 +1,6 @@
 # 🏢 Urban-Economics
 
-Problématique : **Paris et Lyon sont-elles toujours des agglomérations monocentriques ?**  
+**Paris et Lyon sont-elles toujours des agglomérations monocentriques ?**  
 
 ## 🎯 Objectif du projet
 
