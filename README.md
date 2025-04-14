@@ -14,7 +14,7 @@
   <a href="https://github.com/jkengineer42/Urban-Economics">
     <img alt="Stars" src="https://img.shields.io/github/stars/jkengineer42/Urban-Economics.svg?style=for-the-badge"></a>
   <a href="https://raw.githubusercontent.com/jkengineer42/Urban-Economics/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD-2-blue?style=for-the-badge" alt="License" /> </a>
+    <img src="https://img.shields.io/badge/License-BSD-blue?style=for-the-badge" alt="License" /> </a>
 </p>
 
 ## 🎯 Project Goal
