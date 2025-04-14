@@ -1,4 +1,21 @@
-# 🏢 Are Paris and Lyon Still Monocentric Cities?
+
+<h1 align="center"> 
+🏢 Are Paris and Lyon Still Monocentric Cities?
+</h1>
+</p>
+<p align="center"> 
+  <a href="https://github.com/jkengineer42/Urban-Economics">
+    <img src="https://img.shields.io/github/contributors/jkengineer42/Urban-Economics.svg?style=for-the-badge" alt="Contributors" /> </a>
+  <a href="https://github.com/jkengineer42/Urban-Economics">
+    <img alt="Issues" src="https://img.shields.io/github/issues/jkengineer42/Urban-Economics?style=for-the-badge">
+    </a>
+  <a href="https://github.com/jkengineer42/Urban-Economics">
+    <img alt="Forks" src="https://img.shields.io/github/forks/jkengineer42/Urban-Economics.svg?style=for-the-badge"></a>
+  <a href="https://github.com/jkengineer42/Urban-Economics">
+    <img alt="Stars" src="https://img.shields.io/github/stars/jkengineer42/Urban-Economics.svg?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/jkengineer42/Urban-Economics/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
+</p>
 
 ## 🎯 Project Goal
 
